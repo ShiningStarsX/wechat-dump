@@ -5,7 +5,7 @@ VX登录情况下，断网。（VX版本为7.0.17）
 数据库在:
 /data/data/com.tencent.mm/MicroMsg/32位的id/EnMicroMsg.db
 数据库密码为:
-将IMEI与uin拼接起来，打开https://md5jiami.51240.com/计算拼接出MD5值，使用32位小写，取出前7位。这前7位即为数据库密码。
+将IMEI与uin拼接起来，打开https://md5jiami.51240.com/ 计算拼接出MD5值，使用32位小写，取出前7位。这前7位即为数据库密码。
 **********
 IMEI获取：手机输入*#06#查看手机的IMEI，如果有多个IMEI可以都记录下来尝试。
 uin获取：打开/data/data/com.tencent.mm/shared_prefs/auth_info_key_prefs.xml其中 <int name="_auth_uin" value="-8888888888" />的uin是-8888888888，包含负号。
