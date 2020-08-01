@@ -30,7 +30,7 @@ sox-plugins-freeworld-14.4.1-3.el7.x86_64.rpm
 https://download1.rpmfusion.org/free/el/updates/7/x86_64/s/sox-plugins-freeworld-14.4.1-3.el7.x86_64.rpm
 
 sqlcipher-2.2.1.tar.gz
-https://github.com/sqlcipher/sqlcipher/archive/v2.1.1.tar.gz
+https://github.com/sqlcipher/sqlcipher/archive/v2.2.1.tar.gz
 
 wechat-dump-master.zip （下载下来后改名为wechat-dump-master.zip）
 https://github.com/ppwwyyxx/wechat-dump/archive/dfdcd4ba0fcc265a04371036ce33e9d188e0406c.zip
